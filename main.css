@@ -1,0 +1,12 @@
+html{
+    box-sizing: border-box;
+   
+}
+body{
+    height: 100%;
+    width: 100%;
+    display: grid;
+    font-family: 'Roboto', sans-serif;
+    grid-template-columns: 80px 1414px 67px 297px 62px;
+    grid-template-rows: 89px 217px 113px 475px 43px 103px 40px;
+}
